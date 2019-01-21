@@ -1,2 +1,4 @@
 # shopping
-一个自我学习的全栈式项目
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
